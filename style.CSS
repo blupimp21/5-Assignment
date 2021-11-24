@@ -1,0 +1,53 @@
+h1{
+    text-align: center; 
+ 
+ }
+ h3{
+     text-align: center;
+ }
+         p, li {
+             font-size: 30px;
+             font-family: 'Times New Roman', Times, serif;
+         }
+             .red{
+             color: red;
+             }
+ 
+             .blue{
+                 color: blue;
+             }
+ 
+             .green{
+                 color: green;
+             }
+         
+              .big {
+                  font-size: 70px;
+              }
+              
+              .tiny {
+                  font-size: 7px;
+              }
+ 
+              .bold {
+                  font-weight:bold ;
+              }
+           
+              .style {
+                  font-style: unset;
+                  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+              }
+ 
+              .multi {
+                  font-style: Bold;
+                  font-size: 61px;
+                  color: orange;
+              }
+ 
+              .sf1 {
+                  color: green;
+              }
+ 
+              .img5 {
+                  width: 300px;
+              }
